@@ -8,3 +8,5 @@
 - 📫 How to reach me:
 * Email: jaredorlim@gmail.com
 * LinkedIn: https://www.linkedin.com/in/jared-lim-70bba11bb/
+
+Here you can find all my past projects and other work.
