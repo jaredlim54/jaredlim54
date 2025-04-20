@@ -2,7 +2,8 @@
 
 
 - 🔭 Hi, I'm Jared Lim!
-- 😄 Pronouns: He/him
+- 😄 Pronouns: He/they
+- 🌱 I’m a PhD student at Georgia Tech.
 - 🌱 I’m experienced in JavaScript, Python, and Java, with knowledge in Node, React, Redux, TypeScript, Express, and SQL. I also have experience using MongoDB and R.
 - 👯 I’m interested in Web Development and Software Engineering
 - 📫 How to reach me:
